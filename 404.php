@@ -19,6 +19,7 @@
                 <h1>404</h1>
                 <h2>Not Found</h2>
                 <p><?php _e('欸？我的萝莉怎么不见了？！','moedog'); ?></p>
+                <br> <a href="https://www.demon1630.cf" target="_blank">回主页看看吧</a>
             </div>
         </div>
         <div class="footer">
